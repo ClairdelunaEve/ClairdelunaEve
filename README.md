@@ -6,6 +6,17 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ClairdelunaEve&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ClairdelunaEve&theme=nord_bright)
 
+## Currently Working
+### Research Theme
+Development of robots to support the process of trial and error
+
+### Univ & Lab's 
+[aais-lab IntroductionPrograming-library](https://github.com/aais-lab/IntroductionPrograming-library)
+
+[aais-lab IntroductionPrograming-Reference](https://github.com/aais-lab/IntroductionPrograming-Reference)
+
+[aais-lab MultiAgentSystem](https://github.com/aais-lab/MultiAgentSystem)
+
 ## 📕 Recent Blog Posts
 <!-- BLOGPOSTS:START -->
 <!-- BLOGPOSTS:END -->
