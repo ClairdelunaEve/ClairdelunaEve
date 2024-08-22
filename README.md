@@ -7,8 +7,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ClairdelunaEve&theme=nord_bright)
 
 ## 📕 Recent Blog Posts
-<!-- feed start -->
-<!-- feed end -->
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
 
 <!--
 **ClairdelunaEve/ClairdelunaEve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
