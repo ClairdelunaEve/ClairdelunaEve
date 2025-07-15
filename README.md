@@ -24,9 +24,9 @@ Development of robots to support the process of trial and error
 
 ## 📕 Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+- [Pythonの自作ライブラリをFlitで公開する](https://qiita.com/Clairdeluna_eve/items/1accbe8e467528ff8c02)
 - [DockerDesktopアプリケーションをシェルスクリプトからいい感じに起動させる](https://qiita.com/Clairdeluna_eve/items/1992a97a716a25fd7ea3)
 - [Pythonライブラリのパスを取得してプログラムで使う](https://qiita.com/Clairdeluna_eve/items/de154620b8b5c89461ba)
-- [[GitHub] pushした後にcommitとIssueを関連付ける](https://qiita.com/Clairdeluna_eve/items/77265ace651066ab15a8)
 <!-- BLOGPOSTS:END -->
 
 <!--
