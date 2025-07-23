@@ -16,7 +16,7 @@ Development of robots to support the process of trial and error
 [2] [山之内七穂, et al. 創造的タスクにおける聞き手ロボットの有効性. 情報処理学会論文誌, 2024, 65.3: 696-705.](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=233365&item_no=1&page_id=13&block_id=8)(査読あり)
 
 ### 🏫 Univ & Lab's 
-[aais-lab IntroductionPrograming-library](https://github.com/aais-lab/IntroductionPrograming-library)
+[aais-lab IntroductionPrograming-library: citam_pydraw](https://github.com/aais-lab/citam_pydraw)
 
 [aais-lab IntroductionPrograming-Reference](https://github.com/aais-lab/IntroductionPrograming-Reference)
 
