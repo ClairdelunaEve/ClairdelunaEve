@@ -11,9 +11,21 @@
 Development of robots to support the process of trial and error
 
 #### Paper
-[1] [山之内七穂, et al. 思考過程の発話に対する聞き手の影響. 第 86 回全国大会講演論文集, 2024, 2024.1: 57-58.](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=236644&item_no=1&page_id=13&block_id=8)
+[1] [山之内七穂, et al. 創造的タスクにおける聞き手ロボットの有効性. 情報処理学会論文誌, 2024, 65.3: 696-705.](https://ipsj.ixsq.nii.ac.jp/records/233365)(査読あり)
 
-[2] [山之内七穂, et al. 創造的タスクにおける聞き手ロボットの有効性. 情報処理学会論文誌, 2024, 65.3: 696-705.](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=233365&item_no=1&page_id=13&block_id=8)(査読あり)
+[2] [山之内, et al. 思考過程発話に対する聞き手インタフェースの影響. 情報処理学会論文誌, 2025, 66.8: 1101-1111.](https://ipsj.ixsq.nii.ac.jp/records/2003473)(査読あり)
+
+
+#### Conference
+[1] [山之内七穂, et al. 思考の外在化における発話行為と聞き手の影響. 情報処理学会, 第85回全国大会講演論文集, 2023.1: 195-196.](https://ipsj.ixsq.nii.ac.jp/records/230643)
+
+[2] [山之内七穂, et al. 思考過程の発話に対する聞き手の影響. 情報処理学会, 第86回全国大会講演論文集, 2024.1: 57-58.](https://ipsj.ixsq.nii.ac.jp/records/236644)
+
+[4] 山之内七穂, et al. 創造課題の成果物説明に対する思考過程発話と聞き手の影響. 情報処理学会, FIT2024, CJ-005
+
+[3] 山之内七穂, et al. 成果物説明内容の傾向に対する思考過程発話と聞き手の影響. 情報処理学会, 第87回全国大会講演論文集, 2025.1: 6E-02
+
+[4] 山之内七穂, et al. 聞き手インタフェースによる創造的思考プロセスへの影響. 情報処理学会, 第88回全国大会, 2026.1: 5E-04
 
 ### 🏫 Univ & Lab's 
 [aais-lab IntroductionPrograming-library: citam_pydraw](https://github.com/aais-lab/citam_pydraw)
