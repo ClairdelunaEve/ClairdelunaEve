@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ClairdelunaEve&theme=nord_bright)
 
 ## 💪 Currently Working
 ### 🔬 Research Theme
